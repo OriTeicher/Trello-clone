@@ -1,6 +1,8 @@
-# Jello - a Trello clone using Vue.js and Node.js
+# Jello - a Trello clone using Vue.js, Node.js & MongoDB
 
-### This is a Trello clone application built with Vue.js, Node.js, Socket.io, SCSS, MongoDB, and the Unsplash API. <br> Start managing your tasks conveniently here: <a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085">https://jello-i4lp.onrender.com</a><br>
+## This is a Trello clone application (built only in 14 days!! 😲) <br>
+### Built with Vue.js, Node.js, Socket.io, SCSS, MongoDB & Unsplash API. <br> Start managing your tasks conveniently here: <a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085">https://jello-i4lp.onrender.com</a><br>
+### Special thanks to : <br>https://github.com/YohaiKorem - Yohai Korem <br>  https://github.com/Orikrispel - Ori Krispel <br>  for building this project with me 😁 
 ##### Features
 - Create, edit, and delete boards, lists, and cards
 - Drag and drop functionality for organizing cards within lists and lists within boards
@@ -25,7 +27,7 @@ The photo showcases the board page of a Trello clone application. It displays a 
 The photo showcases a Trello task card, providing a visual representation of an individual unit of work within a project or board.
 The task card displays important details such as the task title, description, due date, assigned members, and any relevant attachments or labels.
 This image highlights the organized and collaborative nature of Trello, allowing teams to track and manage tasks effectively. 
-![Task](https://github.com/OriTeicher/Jello/assets/119428349/b01db122-0d7d-441b-9c1d-0f22c7faef35)
+![image](https://github.com/OriTeicher/Trello-clone/assets/101281765/f9fc7111-c7c5-48fc-89e1-f1ad658777af)
 
 <br>
 
