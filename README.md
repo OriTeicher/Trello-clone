@@ -2,7 +2,6 @@
 
 ## This is a Trello clone application (built in 14 days!! 😲) <br>
 ### Built with Vue.js, Node.js, Socket.io, SCSS, MongoDB & Unsplash API. <br><br> APP DEMO: <a href="https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085">https://jello-i4lp.onrender.com</a><br>
-### Special thanks to : <br>https://github.com/YohaiKorem - Yohai Korem <br>  https://github.com/Orikrispel - Ori Krispel <br>  for building this project with me 😁 
 <hr>
 
 #### Features
